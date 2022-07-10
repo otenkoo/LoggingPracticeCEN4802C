@@ -1,0 +1,306 @@
+Jul 10, 2022 12:52:33 AM org.logging.LogStart start
+INFO: Application started 
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 1: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 2: AGE = 22 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 3: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 4: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 5: AGE = 15 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 6: AGE = 16 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 7: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 8: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 9: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 10: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 11: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 12: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 13: AGE = 15 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 14: AGE = 16 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 15: AGE = 19 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 16: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 17: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 18: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 19: AGE = 16 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 20: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 21: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 22: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 23: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 24: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 25: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 26: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 27: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 28: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 29: AGE = 18 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 30: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 31: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 32: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 33: AGE = 15 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 34: AGE = 18 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 35: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 36: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 37: AGE = 15 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 38: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 39: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 40: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 41: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 42: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 43: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 44: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 45: AGE = 18 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 46: AGE = 16 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 47: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 48: AGE = 22 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 49: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 50: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 51: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 52: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 53: AGE = 15 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 54: AGE = 22 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 55: AGE = 22 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 56: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 57: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 58: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 59: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 60: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 61: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 62: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 63: AGE = 18 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 64: AGE = 18 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 65: AGE = 16 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 66: AGE = 19 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 67: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 68: AGE = 22 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 69: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 70: AGE = 15 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 71: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 72: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 73: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 74: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 75: AGE = 15 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 76: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 77: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 78: AGE = 18 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 79: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 80: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 81: AGE = 18 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 82: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 83: AGE = 22 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 84: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 85: AGE = 16 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 86: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 87: AGE = 16 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 88: AGE = 19 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 89: AGE = 17 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 90: AGE = 18 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 91: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 92: AGE = 19 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 93: AGE = 24 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 94: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 95: AGE = 21 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 96: AGE = 19 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 97: AGE = 23 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+WARNING: 98: AGE = 16 MINOR
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+INFO: 99: AGE = 25 ADULT
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.ReadWriteLogs writeLogs
+SEVERE: 100: AGE = 20 PRODUCT RESTRICTIONS
+===========================================================
+Jul 10, 2022 12:52:33 AM org.logging.App main
+INFO: CREATED LOG
+===========================================================

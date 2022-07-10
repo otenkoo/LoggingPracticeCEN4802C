@@ -7,7 +7,7 @@ public class App
         ReadWriteLogs readWriteLogs = new ReadWriteLogs();
         readWriteLogs.start();
         readWriteLogs.writeLogs();
-        readWriteLogs.logger.info( "CREATED LOG" + "===========================================================");
+        readWriteLogs.logger.info( "CREATED LOG" + "\n===========================================================");
         readWriteLogs.readLogs();
     }
 }

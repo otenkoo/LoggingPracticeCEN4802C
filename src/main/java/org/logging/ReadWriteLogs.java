@@ -11,13 +11,13 @@ public class ReadWriteLogs extends LogStart {
             for(int i = 0; i < 100; i++){
                 int randomNumber = (int)(Math.random() * ((25 - 15) + 1)) + 15;
                 if(randomNumber < 18){
-                    logger.info("MINOR" + "\n===========================================================");
+                    logger.log(Level.WARNING, i+1 + ": " + "AGE = " + randomNumber + " MINOR" + "\n===========================================================");
                 }
                 else if(randomNumber >= 18 && randomNumber <= 20){
-                    logger.info("PRODUCT RESTRICTIONS" + "\n===========================================================");
+                    logger.log(Level.SEVERE, i+1 + ": " + "AGE = " + randomNumber + " PRODUCT RESTRICTIONS" + "\n===========================================================");
                 }
                 else{
-                    logger.info("ADULT" + "\n===========================================================");
+                    logger.info(i+1 + ": " + "AGE = "+ randomNumber + " ADULT"  + "\n===========================================================");
                 }
             }
         } catch (Exception e) {
@@ -30,10 +30,10 @@ public class ReadWriteLogs extends LogStart {
     public void readLogs() {
         try{
         Scanner sc = new Scanner(new File("appLog.txt"));
-        System.out.println("Parsing log for SEVERE/WARNING levels recorded");
+        System.out.println("Parsing log for WARNING levels recorded");
         while (sc.hasNextLine()) {
             String line = sc.nextLine();
-            if (line.contains("SEVERE") || line.contains("WARNING")) {
+            if (line.contains("WARNING")) {
                 System.out.println("===========================================================");
                 System.out.println(line);
             }
