@@ -1,13 +1,13 @@
 package org.logging;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World :) !" );
+        ReadWriteLogs readWriteLogs = new ReadWriteLogs();
+        readWriteLogs.start();
+        readWriteLogs.writeLogs();
+        readWriteLogs.logger.info( "CREATED LOG" + "===========================================================");
+        readWriteLogs.readLogs();
     }
 }
